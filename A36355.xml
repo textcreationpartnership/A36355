@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of judgement, preached before the Queen Dowager in Her Majesties chappel at Somerset-House, on the first Sunday in Advent, being the 27th. of Novemb. 1686 / by J.D. of the Society of Jesus.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36355</idno>
+            <idno type="STC">Wing D1927</idno>
+            <idno type="STC">ESTC R8585</idno>
+            <idno type="EEBO-CITATION">12381459</idno>
+            <idno type="OCLC">ocm 12381459</idno>
+            <idno type="VID">60775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 937:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of judgement, preached before the Queen Dowager in Her Majesties chappel at Somerset-House, on the first Sunday in Advent, being the 27th. of Novemb. 1686 / by J.D. of the Society of Jesus.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>[34] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Advent sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60775:1" rendition="simple:additions"/>
+            <p>A SERMON OF JUDGEMENT, Preached before the Queen Dowager, In Her Majeſties Chappel AT SOMERSET-HOUSE; ON THE Firſt Sunday in Advent. Being the 27th. of <hi>Novemb.</hi> 1686.</p>
+            <p>By <hi>J. D.</hi> of the SOCIETY of JESUS.</p>
+            <p>Publiſhed by Her Majeſties Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon</hi> at the Entrance into the <hi>Old-Spring-Garden,</hi> near <hi>Charing-Croſs,</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:60775:2"/>
+            <pb facs="tcp:60775:2"/>
+            <head>A SERMON Preach'd before the QUEEN DOWAGER, On the firſt <hi>Sunday</hi> of Advent.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke</hi> XXI. <hi>Verſe</hi> 27.</bibl>
+                  <p>Tunc videbunt filium hominis venientem in nube, cum poteſtate magnâ &amp; Ma<g ref="char:EOLhyphen"/>jeſtate.</p>
+                  <p>
+                     <hi>Then ſhall they ſee the Son of Man coming in a Cloud, with great Power and Majeſty.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>TUnc, Then:</hi> A day <hi>Then</hi> ſhall come, the <hi>laſt</hi> of days, unknown to <hi>Man,</hi> but known to <hi>GOD,</hi> which put<g ref="char:EOLhyphen"/>ting the Heavens to a ſtand, and a full ſtop to Time, <hi>ſhall benight the Sun,
+<note place="margin">
+                     <hi>Matt.</hi> 24.29.</note> ſhall
+<pb facs="tcp:60775:3"/>darken the Moon,;</hi> ſo cloſing the Eyes of a dying World, and even <hi>throw the Stars from the Firmament.</hi> Come it ſhall, and making all Nature to Tremble, with hor<g ref="char:EOLhyphen"/>rid Commotions of Mountains and Plains, Agitations of Hills and Valleys; ſhall lay the ambitious of the Earth under their once Palaces, but now Tombs; ſhall le<g ref="char:EOLhyphen"/>vel with the ground, your beſt deſign'd Fortreſſes, and Nobleſt Cities; and of ſo many Renowned Kings, and Empires, ſhall leave no more than a place of Burial. It ſhall ſay to the broils and noiſes of a buiſy, clamorous World: <hi>Silence.</hi> To the bloody conteſts of Warlike Nations, <hi>Peace.</hi> To the deep Contrivances of Politicians, <hi>Ha' done.</hi> To Nuptial Joys, Titles, and Grandeurs, <hi>No more.</hi> To the long deſcent of Ancient Families, <hi>An End.</hi> To all Mankind, <hi>Return into your native Duſt.</hi> Merchants, Lawyers, Soldiers, Youth, La<g ref="char:EOLhyphen"/>dies, Nobles, all is vaniſhed when this day appears. No more Meetings at Change, no more Pleadings at Bar, no more Mu<g ref="char:EOLhyphen"/>ſtering at Camps, no more flocking to
+<pb facs="tcp:60775:3"/>Theatres, no more Gallantry at Balls, no more idle Converſations, Courting, Coaching, and Gaming; no more Pa<g ref="char:EOLhyphen"/>ſtimes, nor time to paſs. Wit, Courag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Beauty; Wealth, Pleaſure and Glory, are reduced to Aſhes, to cover a mournful World; One thing only remains, ſlight it if you can, <hi>Judgement, God's dreadful Judge<g ref="char:EOLhyphen"/>ment. Surgite mortui &amp; venite ad Judicum; Ariſe you Dead, and come to Judgement.</hi> The Trumpet of the Arch-Angel will ſound; which did it now awake the Living, as it ſhall then revive the Dead, in ſilence I'd give place to your Compunction, and Eloquent Tears<g ref="char:punc">▪</g> But alas! We are 'no S. <hi>Jeroms,</hi> no <hi>Lewis's,</hi> to hear, at ſuch a diſtance, thoſe dreadful Summons's. We are too ſhort-ſighted to diſcover ſo far off, that frightful day: To excite therefore, and quicken our preſent Faith of what's to come, joining Reaſon with Divine Authority, I ſhall endeavour to ſet be<g ref="char:EOLhyphen"/>fore your Eyes, God's final Judgement, divided into Three Parts.</p>
+            <pb facs="tcp:60775:4"/>
+            <p>Firſt, The Indictment, which is <hi>Ge<g ref="char:EOLhyphen"/>neral.</hi>
+            </p>
+            <p>Secondly, The Tryal, which is <hi>Impar<g ref="char:EOLhyphen"/>tial.</hi>
+            </p>
+            <p>Thirdly, The Sentence, which is <hi>Un<g ref="char:EOLhyphen"/>alterable:</hi>
+            </p>
+            <p>
+               <hi>Tunc videbunt filium hominis venientem in Nube, cum Poteſtate magnâ, &amp; Majeſtate.</hi>
+            </p>
+            <p>
+               <hi>Then they ſhall ſee the Son of Man coming in a Cloud, with great Power, and Majeſty.</hi>
+            </p>
+            <p>But let us firſt Invoke the aſſiſtance of the God of Mercy, by the Interceſſion of his ever Virgin-Mother, an Advocate to him for Sinners, <hi>Ave Maria.</hi>
+            </p>
+            <p>
+               <hi>TUnc videbunt,</hi> &amp;c. <hi>Then they ſhall ſee,</hi> &amp;c. The Indictment is <hi>Ge<g ref="char:EOLhyphen"/>neral.</hi> There is nothing ſo Formidable, the Terrour of which, is not much allay'd by its Uncertainty; For Uncertainty makes way to hope of avoiding it, Hope dimi<g ref="char:EOLhyphen"/>niſhes Fear, and ſo what otherwiſe might ſurprize the ſobereſt, and ſtouteſt Reſolu<g ref="char:EOLhyphen"/>tion, is often, if not contemn'd, at leaſt undervalu'd by the weakeſt ſort of Peo<g ref="char:EOLhyphen"/>ple.
+<pb facs="tcp:60775:4"/>What more Terrible to the Ear, than a clap of Thunder? Yet a confidence, we are not the mark of angry Heaven, dulls our apprehenſion of it. What more frightful to the Eye, than a ſtormy Sea? And yet becauſe its fury frequently ends in Threats and Foamings, it is encountred by a World of Marriners. Could the ſtrict Judgement of God be declined, we might have ſome cauſe to mitigate that Fear, its very Name ſtrikes into the Veins of True Believers. But we are already Summoned, and Indicted; without poſſi<g ref="char:EOLhyphen"/>bility of Traverſe, or Appeal: God's Judgement undoubtedly is to enſue. No hope then of flying it; no motive of leſſen<g ref="char:EOLhyphen"/>ing our Fear, or preparation for it.</p>
+            <p>Should I aſſume, without farther proof, this grand Verity; <hi>A day of Judgement is to come:</hi> I ſhould make bold with no more, than what the Belief of each Chriſtian al<g ref="char:EOLhyphen"/>lows me, and ſpeaking to Chriſtians, what more could be required? Can we have a ſtronger evidence, than what relyes upon the immoveable ground, of Divine
+<pb facs="tcp:60775:5"/>Revelation? We cannot. Yet Reaſon, you may ſuggeſt, works more Con-naturally upon the generality of Men, and that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th is at leaſt Dormant in many, if not Dead in ſome, whereas Natural Reaſon is awake in all. Is it ſo? I wiſh it were. Were Natural Reaſon awake in all, were it not caſt into a dead Sleep, by Senſuality and Paſſion, it would not ſuffer Divine Reve<g ref="char:EOLhyphen"/>lation to paſs for a Dream, Hell for a Fa<g ref="char:EOLhyphen"/>ble, Heaven for a Paradiſe of Fools, the Goſpel for an <hi>Alcoran.</hi> However, it being your Suggeſtion, my Duty is to comply with your Inclination; Reverently there<g ref="char:EOLhyphen"/>fore ſetting aſide for a while, what is con<g ref="char:EOLhyphen"/>ſign'd unto us, in the ever, and thrice Holy Bible; I find we are Indicted, even by Reaſon it ſelf, declaring for a <hi>Day of Judge<g ref="char:EOLhyphen"/>ment, from all Eternity aſſign'd for Men.</hi> To the Proof.</p>
+            <p>Moral Philoſophers, though Gentiles, termed this World a Priſon, Men the Pri<g ref="char:EOLhyphen"/>ſoners; and by conſequence, could not but acknowledge, as it were, a general Seſſions,
+<pb facs="tcp:60775:5"/>where all Cauſes ſhould be Tryed. But their Authority goes no farther than it ſuits with your own Reaſon. To your Reaſon then I appeal to be Judge of this Truth. Is there not an inbred deſire in each Man, to be righted, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> injured, to require ſati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>faction, if affronted? Nay, if the affront be publick, do not you exact publick re<g ref="char:EOLhyphen"/>comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and this, ſeconding the conduct, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aws of Natural Juſtice? Are not theſe firſt and palpable Notions obvious to all, and ratified by daily Practice? They are. And if ſo, give me leave to proſecute my Diſcourſe. What is juſt in our Selves, ſhall we deny to be juſt in GOD? Has He leſs Right than We? We have our days of <hi>Oyer</hi> and <hi>Terminer,</hi> and ſhall not God have his day too? Shall he not in the face of the World, hold his Court of Juſtice? How many give him the lye with Here<g ref="char:EOLhyphen"/>ſies? How many with Blaſphemies, do what they can, to poſt him for a God of Wood? How many with Imprecations, Curſes, and Oaths, take a pride in Pro<g ref="char:EOLhyphen"/>phaning his Sacred Name? His Inſpira<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:60775:6"/>are repulſed, his Counſels not heard, his Orders neglected, his Commands diſ<g ref="char:EOLhyphen"/>obeyed, his Mercy ſcorn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, his Patience trampled under foot; and ſhall not Juſtice take in hand the Cauſe? What ſay you? You are Rational Men, debate it with Reaſon, and give in your Anſwer. Doth not Reaſon ſpeak <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loud, and cry out for a day of Judgement; and what is this Ver<g ref="char:EOLhyphen"/>dict of Reaſon, but a Citation to Appear? Yes, Yes, <hi>Videbunt filium hominis venientem in Nube, They ſhall ſee the Son of Man com<g ref="char:EOLhyphen"/>ming in a Cloud;</hi> A Cloud which ſhall burſt out into a Thunder of Juſtice, and Revenge againſt the Impious. <hi>Videbunt, They ſhall ſee;</hi> Yea, a day ſhall come, They ſhall ſee, and We ſhall ſee. But again:</p>
+            <p>As God is a Firſt and Neceſſary Being, ſo of neceſſity he muſt be the firſt Rule of Ju<g ref="char:EOLhyphen"/>ſtice; and can any one be ſo fond as to ima<g ref="char:EOLhyphen"/>gine, That the firſt Rule of Juſtice it ſelf, can put up ſo many wrongs, done under pre<g ref="char:EOLhyphen"/>tence of Authority deriv'd from him? To Enact unjuſt Laws, which carry the Woe
+<pb facs="tcp:60775:6"/>of God in their Fore-head, written by, <hi>I<g ref="char:EOLhyphen"/>ſaiah, Vae qui condunt leges iniquas,
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> ut vim fa<g ref="char:EOLhyphen"/>ciant cauſae humilium populi me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Wo to thoſe who make unrighteous Laws, to uſe violence to the Cauſe of the humble of my people.</hi> To quit the Guilty, to condemn Innocents, are things poſſible. I ſay no more: Some<g ref="char:EOLhyphen"/>time Paſſion, and oftener Miſtake, over<g ref="char:EOLhyphen"/>rules Judges. They are Men, and the Learned know, That Humane Laws can<g ref="char:EOLhyphen"/>not ſufficiently provide for all Contin<g ref="char:EOLhyphen"/>gencies. Now if it be the part of a Supe<g ref="char:EOLunhyphen"/>riour Court to Retrieve the Errours and Diſorders of an Inferiour, Thô the writ<g ref="char:EOLhyphen"/>ten Word of God were Mute, were not in Being, would not Reaſon decide, That it is but juſt and equitable, That all Inju<g ref="char:EOLhyphen"/>ries, uneven Dealings, and Overſights, Voluntary, and Unvoluntary, ſhould be Rectified in a Supreme and Final Judge<g ref="char:EOLhyphen"/>ment? More.</p>
+            <p>Is it fit that any Crime ſhould paſs un<g ref="char:EOLhyphen"/>judged, and unpuniſhed, Good and Holy Actions unrewarded? But that's perfor<g ref="char:EOLhyphen"/>med, you'l ſay, at the hour of each Man's
+<pb facs="tcp:60775:7"/>Death. And the Judge himſelf, is He not to be Vindicated? What murmurings at Providence for the Proſperity of the Un<g ref="char:EOLhyphen"/>godly, and hard fortune of the Righteous? Theſe Poor, thoſe Wealthy, theſe Scorn'd, thoſe Honour'd, theſe Depreſs'd, and thoſe Rais'd: Is not the mouth of Malice to be ſtop'd? Beſides, is it not juſt, that a pub<g ref="char:EOLhyphen"/>lick ſhame ſhould now check, and then puniſh the privacy of Sin? That a publick honour ſhould now Cheriſh, and then Crown Merit and Virtue? I end not here, be pleas<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to take yet one ſtep with me. How inconſiderable a part of our Actions fall under the Verge of Humane Authori<g ref="char:EOLhyphen"/>ty? Amongſt Divines, and Canoniſts, it is a current Rule, <hi>De internis non judicat Eccleſia: The Church it ſelf judgeth not of the interiour;</hi> it takes Recognizance on<g ref="char:EOLhyphen"/>ly of apparent things. And is it cre<g ref="char:EOLhyphen"/>dible, that thoughts and deſires, the Ori<g ref="char:EOLhyphen"/>gin and Source of all exteriour Evil, ſur<g ref="char:EOLhyphen"/>mounting in number and quality, what<g ref="char:EOLhyphen"/>ever betrays it ſelf to our Senſe and Know<g ref="char:EOLhyphen"/>ledge, ſo offenſive to God, ſo pernicious to
+<pb facs="tcp:60775:7"/>our Neighbour, and our Selves, ſhall paſs un-try'd, and un-chaſtiz<g ref="char:punc">▪</g>d? Raſh Judge<g ref="char:EOLhyphen"/>ments, Treacherous M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chinations, Malici<g ref="char:EOLhyphen"/>ous Deſigns, Rebelli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rancours, as they p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>judice the whole, by being deſtructive to Hum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Society, and Chriſtian Cha<g ref="char:EOLhyphen"/>rity; ſo before the whole Univerſe, they are to be accounted for, and not only at the point of Death.</p>
+            <p>The ſubſtance of my Diſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſe is reduce'd to this; if there be a God, he's Juſt; and if there be a Juſt God, there will be a final Judgement. But there i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a God, and a Juſt God, as Light of Nature evidences. There<g ref="char:EOLhyphen"/>fore a day, a Judgment there will be. <hi>Tunc videbunt,</hi> &amp;c<g ref="char:punc">▪</g> 
+               <hi>Then they ſhall ſee.</hi>
+            </p>
+            <p>
+               <hi>Reaſon</hi> then turn'd Herald, proclaims Judgement; <hi>Reaſon</hi> Summons us to Ap<g ref="char:EOLhyphen"/>pear; <hi>Reaſon</hi> moves us to Apprehend, Fear, and Provide for a Tryal, either with pleading Guilty, by a timely and true Re<g ref="char:EOLhyphen"/>pentance; or Not Guilty, by the continu<g ref="char:EOLhyphen"/>ance of a harmleſs and godly Converſation. <hi>Fratres hora eſt jam nos de ſomno ſurgere,</hi>
+               <note place="margin">
+                  <hi>R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 13.11.</note> ſays the Apoſtle in the Office of this day,
+<pb facs="tcp:60775:8"/>
+               <hi>It is now the hour for us to riſe from ſleep. Nunc enim propior eſt noſtra ſalus, For now our Salvation is nearer,</hi> We are in a holy time, dedicated to the coming of Chriſt, and therefore termed <hi>Advent,</hi> implying a Coming. One coming of Chriſt, is paſs<g ref="char:punc">▪</g>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the other is drawing on; that which is paſs'd was the coming of a Saviour, that which is drawing on, is the coming of a Judge; the firſt we Celebrate, for the ſe<g ref="char:EOLhyphen"/>cond we are to provide. In the firſt, the Son of God became the Son of Man; in the ſecond, the Son of Man will become Judge. Fear the Judge, and you'l not ſlight, but adore the Infant, <hi>Timuit omnis homo,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal.</hi> 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> ſays <hi>David, All Men were repleniſhed with Fear;</hi> where S. <hi>Auguſtine,</hi> as he is wont, divinely puts in; <hi>Qui non timuerunt nec homines fuerunt: If all Men feared; they who feared not, were not Men.</hi> Ceaſe then to be Men, or fear Judgement; for he that fears it not, according to S. <hi>Auſtine,</hi> is void of <hi>Reaſon,</hi> is no <hi>Man, Qui non timuerunt nec homines fuerunt.</hi>
+            </p>
+            <pb facs="tcp:60775:8"/>
+            <p>Now what <hi>Reaſon</hi> declares in general; the Spirit of the Lord lays down in more expreſs and ſignificant terms. I ſay no<g ref="char:EOLhyphen"/>thing, of the foretelling <hi>Sibyl,</hi> or of the perſwaſion of ſome An<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ents, touching the Conflagration of the World: I take no notice of the fantaſtical Conceits, relating to the end of the <hi>Platonick</hi> year. To you, O holy Prophets, for your Oracles and Summons, I addreſs my ſelf. Know then, ſays the Prophet <hi>Ezekiel, Finis venit, venit finis, ſuper quatuor plagas terrae: The end is come, there is come an end, upon the four parts of Earth: Et judicabo te juxta vias tuas. A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> will judge thee according to thy ways.</hi>
+            </p>
+            <p>And why twice, <hi>An end is come: there is come an end?</hi> It is a Force, an Emphaſis, a Replication becoming ſo important a Truth; Or give me leave to throw in a thought, and ſay: The end of Time is come, and ſo is that of Eternity; for Eter<g ref="char:EOLhyphen"/>nity has but one End, and that is its Be<g ref="char:EOLhyphen"/>ginning. <hi>An end then is come, there is come an end;</hi> and between this <hi>End,</hi> and <hi>End,</hi> the <hi>End</hi> of Time, and <hi>Beginning</hi> of Eterni<g ref="char:EOLhyphen"/>ty;
+<pb facs="tcp:60775:9"/>
+               <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>licabo.</hi> ſays the Lord; I will erect my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ment.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Eyes, ſays the Prophet <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veniet crudelis &amp; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Behold <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all come full of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n lig<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and fury.</hi> And if you yet <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the nature of the Day, <hi>Sop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> bid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you take your Pen in hand, and wr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Index</hi> of <hi>Epithets</hi> he ſets do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Dies Domini magnus: The great day of the Lord: Dies irae, the day of Anger<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; Dies illa, The Day; Dies Tribulationis, &amp; Anguſtiae, The Day of Tribulation, and Di<g ref="char:EOLhyphen"/>ſireſs; Dies calamitatis &amp; miſeriae, A Day of calamity and miſery; Dies tenebrarum, A day of Darkneſs; Dies Tubae &amp; Clangoris, A day of Trumpet and Alarm.</hi> Such is the Day which is to Uſher us in to Judgement.</p>
+            <p>And here I ſtop, for not to repeat what laſt <hi>Sunday</hi> has left ſo freſh in your minds. Then you ſaw, and to your terrour and fear, by expert Pencils in both the Royal Chappels, the gaſt piece of the expiring World, drawn out to life. The Sun dar<g ref="char:EOLhyphen"/>kened,
+<pb facs="tcp:60775:9"/>the Moon in blood, the Stars fal<g ref="char:EOLhyphen"/>ling, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arth in ſmoak, and fire, the Sea in rage: Here an Angel, with one foo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the Sea, the other upon the Land, lifting his hand to Heaven, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wearing by him that lives, <hi>The End of Time:</hi> There, the over-flowing Caldron of God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Indig<g ref="char:EOLhyphen"/>nation; <hi>Jeremy,</hi> and the Prophets heartleſs.
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> Here the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt</hi> trembling, and almoſt daun<g ref="char:EOLhyphen"/>ted; There, Men, or rather wandering Skeletons of Men, ſeeking D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and Caves, and withering for fear; For fear of what, do you conceive? And with this thought I end my firſt part.</p>
+            <p>Tell me not for the roarings of an in<g ref="char:EOLhyphen"/>vading Sea, the howlings of the Winds in the Air, the gapings of the Earth. No, theſe were not the ſubject of their fear, Theſe are but Summons's to Judgement, They are piercing, they are amazing True: But to ſuch as feel not Judgement near at hand, its Judgement terrifies them. They are but Meſſengers, and it is not the Meſſenger, but the Meſſage which chills the Delinquent; its the horrour of
+<pb facs="tcp:60775:10"/>Judgement which cauſes Men to rave for fear, and beg the Mountains to fall upon them. <hi>Quaerent homines mortem,</hi> ſaith the beloved Diſciple,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>Men ſhall ſeek Death, and Death ſhall fly from them.</hi> O what a Change! O what an Alteration! Hear, and Admire; Men now dread to dye, and then for fear of Judgement ſhall dread to live; they ſhall ſeek Death, but Death will not be found.</p>
+            <p>Ah cruel Death! they'd ſay, were not their grief too exceſſive, to ſpeak; Death ever Cruel; Cruel when Men fled from thee, and more Cruel now thou flieſt from Men: Cruel thou wert to the loft intrea<g ref="char:EOLhyphen"/>ties of Ladies; Cruel in ſcorning Infants Tears, Cruel to the deſires of comely youth, Cruel in deriding the Prayers of the Ancient, Cruel in feeding upon the Car<g ref="char:EOLhyphen"/>caſſes of all Mankind; but Crueller in thy flight, than in thy approach, in thy retreat, than in thy onſet. Ah Death, Death, be piteous, by continuing thy former Cruelty, be merciful by being Death unto us, and concealing us from the Eye of the en<g ref="char:EOLhyphen"/>raged
+<pb facs="tcp:60775:10"/>Judge. <hi>Quaerent homines mortem, Men ſhall ſeek Death, Et mors fugiet ab eis,</hi> and Death it ſelf, frighted at their ear, <hi>ſhall take its flight.</hi> O what apprehenſion then muſt Judgement raiſe! which renders ea<g ref="char:EOLhyphen"/>ſie the Convulſions of Nature, the diſor<g ref="char:EOLhyphen"/>ders of the Elements, the Menaces of the Heavens, the deadly Symptoms of an ago<g ref="char:EOLhyphen"/>nizing World<g ref="char:punc">▪</g>
+               <note place="margin">
+                  <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 24.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Thoſe are but <hi>Init<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t dolo<g ref="char:EOLhyphen"/>rum, The beginnings of ſorrows.</hi> They can but Kill; and Death is now a Comfort: When Life was lov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, ſuch Evils were fear'd: The terrour of Judgment draw<g ref="char:EOLhyphen"/>ing near, Life is hated, and Death covet<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Yet Death at laſt, having left none living, muſt again withdraw, and render its ſpoils. The final call to our Tryal ſounds, the Voice of the Arch-Angel fills the Graves; the powerful Trumpet reaches the remo<g ref="char:EOLhyphen"/>teſt parts of Sea and Land; the command of the Judge urges: Heaven, Hell, and Earth obey; Souls are united to their re<g ref="char:EOLhyphen"/>ſpective Bodies; <hi>All,</hi> none excepted, <hi>ſhall Ariſe: Omnes reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgemus,</hi> ſays the Apoſtle.
+<note place="margin">1 <hi>Cor</hi> 13.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>
+               <pb facs="tcp:60775:11"/>And for a moment I leave you, in the midſt of <hi>Alexanders, Scipios, Hannibals, Cae<g ref="char:EOLhyphen"/>ſars</hi> and <hi>Pompeys,</hi> no more what they were, the terrour of the World,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but what they are, ſinking for fear; <hi>Potentiſſimi quondam Reges nudo latere palpitabunt,</hi> ſays St. <hi>Je<g ref="char:EOLhyphen"/>rome; The hearts of the once moſt powerful, now naked Kings, ſhall beat and palpitate.</hi> Vouchſafe to recollect your ſelves, for the hearing the Tryal, and Sentence in my ſe<g ref="char:EOLhyphen"/>cond part, to which I now come</p>
+            <p>
+               <hi>TUnc videbunt filium hominis,</hi> &amp;c. <hi>Then they ſhall ſee,</hi> &amp;c. Your attention, beloved Brethren, your attention. The much I have ſaid, to what I have to ſay, is little: Now the Scene of Terrour is opening. The reſt was but a Prelude; Now for Life and Death, and that Eter<g ref="char:EOLhyphen"/>nal; Judgement begins: and the Tryal will be as Impartial, as the Judge is above Bribe, Miſtake, or Paſſion.</p>
+            <p>The Souls united to their Bodies, thoſe of the Damned with greater violence, than ever they were ſeparated, with reproachful
+<pb facs="tcp:60775:11"/>Curſes charging each other, (an effect of ſinful Friendſhip) as being the cauſe of their Perdition, ſhall be placed in the Valley of <hi>Joſaphat,</hi> interpreted, <hi>Valley of Judgement,</hi> to the fulfilling the Prophecy of <hi>Joel.</hi> 3.2. and <hi>verſe</hi> 14. ſtiled <hi>Vallis conciſionis, The Valley of Slaughter.</hi> The Souls and Bo<g ref="char:EOLhyphen"/>dies of the Juſt, gre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting each other, with a Reciprocal Love and Joy, ſhall be rais'd into the Air, both giving their Appearance, in way to a Tryal: And the Judge in or<g ref="char:EOLhyphen"/>der to the ſame, likewiſe appears; all like themſelves; the Wicked burning with confuſion, the Juſt repleniſhed with con<g ref="char:EOLhyphen"/>ſidence; and the Judge attended by innu<g ref="char:EOLhyphen"/>merable Legions of Angels, with the Crown of Majeſty on his Head, the Scep<g ref="char:EOLhyphen"/>ter of Power in his Hand, ſhall ſeat him<g ref="char:EOLhyphen"/>ſelf on his Throne, and Judgement begins.</p>
+            <p>
+               <hi>Tunc videbunt, Then they ſhall ſee:</hi> And <hi>Tunc Plangent, Then they ſhall weep;
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Omnes Tribus Terrae, All the Tribes,</hi> the Adorers <hi>of the Earth,</hi> compell'd to appear in Judge<g ref="char:EOLhyphen"/>ment<g ref="char:punc">▪</g> The firſt Ceremony uſed in our Criminal Cauſes, I conceive may be pra<g ref="char:EOLhyphen"/>ctiſed
+<pb facs="tcp:60775:12"/>there. <hi>Hold up your Hand,</hi> that is your works, O Reprobates! <hi>Hold up your Hand. Guilty, or not Guilty.</hi> Pardon my forwardneſs, I miſtook, <hi>Guilty,</hi> or <hi>Not Guil<g ref="char:EOLhyphen"/>ty,</hi> will not be queſtion'd there. And why ſo? The Reaſon is clear, to plead <hi>Guilty,</hi> and ſo pretend to Mercy, it is too late; the time of Clemency is paſs'd, it is a day of Juſtice, Anger, and Revenge. To be <hi>Guilty,</hi> and plead <hi>Not Guilty,</hi> before an All<g ref="char:EOLhyphen"/>knowing Judge, where every one comes in Witneſs againſt himſelf, is vain. The Tryal will be orderly, the Evidence with<g ref="char:EOLhyphen"/>out exception, and what I ſet out by parts, will be done in a Moment, and therefore the more ſurpriſing. <hi>Tunc plangent, Then they ſhall weep,</hi> and to the increaſe of their unhappineſs, their Tears ſhall be a proof of their guilt.
+<note place="margin">
+                  <hi>Tract.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>Planctus,</hi> ſays <hi>Origen, ad hoc erit, ut ſponte contra ſe ſententiam proferant, &amp; ſeipſos condemnent; Their weeping ſhall ſerve for a ſpontaneous Sentencing, and Con<g ref="char:EOLhyphen"/>demning themſelves,</hi> Tears of Guilt, and not Repentance.</p>
+            <pb facs="tcp:60775:12"/>
+            <p>The Judge ſhall examine, and they ſhall weep, <hi>Redde Rationem,</hi> ſayes the Judge, <hi>Luke</hi> 16.2. <hi>An account,</hi> all you, who I intruſted with the Government of the World, you who I made accountable to none, are now to be accountable to me, of what Nature were your Decrees, Statutes and Laws? How was Juſtice obſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d? what Officers were employ'd<g ref="char:punc">▪</g> were you guided by Flattery, or Truth by Paſſion or by Conſcience<g ref="char:punc">▪</g> was Vice diſcounte<g ref="char:EOLhyphen"/>nanc'd, was Virtue encourag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reli<g ref="char:EOLhyphen"/>gion protected? you were glorious, but were you Pious, often at Balls, but how of<g ref="char:EOLhyphen"/>ten at Sermons and Prayers<g ref="char:punc">▪</g> 
+               <hi>They weep<g ref="char:punc">▪</g> Redde rationem. An account,</hi> O Prelates, of the Church, were you call<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as <hi>Aaron,</hi> or did you intrude? did you feed your Flock, or fatten your ſelves? was your hand ſtretched out to Almes, or to fill your Cof<g ref="char:EOLhyphen"/>fers? were you a <hi>Peter,</hi> or were you a <hi>Si<g ref="char:EOLhyphen"/>mon?</hi> were Benefices and Church-Livings confer'd on the Unworthy, and who would give moſt, or to the worthy, and who either could, or would give nothing? <hi>They weep<g ref="char:punc">▪</g>
+                  <pb facs="tcp:60775:13"/>An account,</hi> O Prieſt! and what a ſtrict account are they to give? with what Reve<g ref="char:EOLhyphen"/>rence and Fear of God, did you approach to the dreadful Sacrifice of the Body and Blood of Chriſt, at the holy Altar? The Sacrament of Penance, was it tyrannically, remiſly, or with a fatherly Love and Vigour admini<g ref="char:EOLhyphen"/>ſtred by you? The Priſoners and infirm, were they viſited? as well Poor as Rich, were the dying aſſiſted? Children, were they cate<g ref="char:EOLhyphen"/>chiz'd? <hi>They weep<g ref="char:punc">▪</g>
+               </hi> Preachers <hi>an account,</hi> by whom were you commiſſion<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d? were you ſent, and impower'd by the Church, directed by my Spirit? or was it the pri<g ref="char:EOLhyphen"/>vate Spirit, of a capricious Fancy, mov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you, and ſet you up? did you preach me, or your ſelves? out of Zeal, or Oſtentation? my word, did you never turn it againſt my ſelf, that is, againſt my Church, and my anointed? my word, is a word of Peace, my word, is a word of Obedience, my word, is a word of Charity, and mutual Union. And how came you to make it the ſeed of mutual Hatred, Diſobedience, and Re<g ref="char:EOLhyphen"/>bellion? <hi>They weep. Redde rationem. An
+<pb facs="tcp:60775:13"/>account,</hi> O Schollars! you had Wit, and why pretended you to more Wit and Sci<g ref="char:EOLhyphen"/>ence than you had? what you had, was it not venial and mercenary<g ref="char:punc">▪</g> was it not pro<g ref="char:EOLhyphen"/>fane? was it not too bold in queſtioning my Myſteries<g ref="char:punc">▪</g> your Quill, was it not ſnatch'd either from one of <hi>Cupid</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s wings, flowing with poyſonous Amours, or from one of the Harpies, pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king, fowling, and ſnatching away the Reputation, even of the moſt ſa<g ref="char:EOLhyphen"/>cred Perſons<g ref="char:punc">▪</g> 
+               <hi>They weep. An account,</hi> O Lawyers. The Cauſes you defended, were they Juſt? were they at leaſt doubtful were they not oppoſite to law, though joyn'd with gain? why was the juſt claim of that indigent obſtructed, by a falſe Action laid againſt him? why was Juſtice put off with Demurs, deluded with quirks, and the Or<g ref="char:EOLhyphen"/>phan and Widow ſtarv'd, becauſe forc'd to ſtarve their Cauſe, for want of doubled and redoubled Fees? <hi>They weep. An account,</hi> O Souldiers! you receiv'd Pay of your Prince, and was you Covenant real? were you Loyal? were you reſolute to ſerve him with the laſt drop of your Blood, or to ſerve your own turns? and then you ought to
+<pb facs="tcp:60775:14"/>have paid your ſelves. Your diſcipline was exact, but what was your Religion? you were punctual in obſerving orders, and how complaint with my commands? you were ſtout, but had you courage to duel your own Paſſion? you were valiant, but were you not haughty, quarrelſom, and abuſive<g ref="char:punc">▪</g> 
+               <hi>They weep. An account,</hi> O Ladies! How tender of your ſelves, but neither tender of Conſcience or of the Poor? why was a hair miſplac'd, a freckle in your countenance ſo offenſive, and the greateſt blemiſhes in the Soul not conſi<g ref="char:EOLhyphen"/>der'd? in time of Prayer your lips went apace, and how far did your thoughts then wander from me? your eye was too ſevere, as to your dreſs, and was not your tongue more ſevere in cutting out for others? <hi>They weep. Redde rationem. An account,</hi> finally, O Chriſtians, you pretended to Chriſtianity, and id not you live like <hi>Heathens,
+<note place="margin">
+                     <hi>Matt.</hi> 18.17.</note> not hear<g ref="char:EOLhyphen"/>ing the Church?</hi> I left you a Church, a <hi>Pillar of Truth,
+<note place="margin">1 <hi>Tim.</hi> 3.14.</note> invincible to the gates of Hell.</hi> And why was this Church left by you?
+<note place="margin">
+                  <hi>Matt.</hi> 16.18.</note> I ſettled but <hi>One Faith,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 4.5.</note> how dar'd you divide it into ſo many, to the deſtruction of Chari<g ref="char:EOLhyphen"/>ty, diviſion of Unity, and arming Inſurre<g ref="char:EOLhyphen"/>ctions?
+<pb facs="tcp:60775:14"/>I call'd, why was I not heard? I knock'd, why was I not admitted? My toils, my labours, why were they ſpent in vain? Where are the fruits of my Blood, Paſſion, and Death? <hi>They Weep.</hi>
+            </p>
+            <p>But weeping will not ſuffice. To each Queſtion, a diſtinct Anſwer ſhall be given. The Books ſhall be opened, Mens Con<g ref="char:EOLhyphen"/>ſciences ſhall be diſplay'd before the whole Court, to be read by all. <hi>Tunc videbunt filium hominis, Then they ſhall ſee the Son of Man;</hi> and by light of the Sun of Juſtice ſhall view their own, and others Crimes, <hi>Revelabit condenſa tenebrarum,</hi> Pſal. 28.9. <hi>He ſhall reveal the profoundest works of dark<g ref="char:EOLhyphen"/>neſs.</hi> O what abominations? What ſhame<g ref="char:EOLhyphen"/>ful Actions? What diſgraceful Paſſages will then appear? There the hidden A<g ref="char:EOLhyphen"/>theiſm, which lurk'd in the heart of the un-wiſe, ſhall be diſcovered, and the <hi>Fool,</hi> who, <hi>Pſal.</hi> 23.1. <hi>ſaid in his heart there is no God,</hi> ſhall by force Adore a juſt One: There the Deiſt ſhall meet with what he queſtions, <hi>Job</hi> 22.13. <hi>Quid enim novit Deus? &amp; quaſi per caliginem judicat? How doth
+<pb facs="tcp:60775:15"/>God know? Can he judge through the dark Cloud?</hi> Sad Repentance will learn him, that God Regiſters every moment, Thought, Word, and Circumſtance of the Life of Man, and in a Cloud more pure than Light it ſelf, he's come to judge him. <hi>Nihil opertum quod non Revelabitur,</hi> Matt. 10.26. <hi>Nothing covered that ſhall not be Revealed.</hi> That cloſe ſupplanting; that undermining Honeſty and Worth; Thoſe frauds, thoſe deceits in Shops and Wares; That infidelity amongſt Partners, Appren<g ref="char:EOLhyphen"/>tices and Factors; Thoſe Perjuries in Wit<g ref="char:EOLhyphen"/>neſſes, thoſe breaches of Truſt in Stewards and Servants; Thoſe palliated Uſuries, and Simonies. Thoſe ſly Inſinuations to ſteal away the good Name of ſome, and rob undue Favour and Eſteem from others: They who could not withſtand Power, ſhall then lay their loud claims, againſt concealed injuſtice. Thoſe De<g ref="char:EOLhyphen"/>baucheries not to be nam'd, ſhall be no more concealed. <hi>Nihil occultum quod non ſcietur: Nothing hidden which ſhall not be known.</hi>
+            </p>
+            <pb facs="tcp:60775:15"/>
+            <p>Go now wiſe Sinner, ſeek the remoteſt Solitude, the ſecreteſt Cave, the darkeſt Nights, to ſin the freer. And doſt thou think, that Solitude, that Cave, that Night, will keep thy counſel, from an All-ſeeing God? But grant it could, thou wilt not be able to keep it thy ſelf. Thy ſelf ſhall ſtand up againſt thy ſelf, in judgement; thy Conſcience ſhall come in a Witneſs againſt thee, and what thou baſhfully doſt now refuſe to bury in the Breaſt of a Prieſt, bound to Eternal Silence, by an humble Confeſſion, Then Thou thy ſelf, in ſuch an Aſſembly, ſhalt publiſh to the World, <hi>Ar<g ref="char:EOLhyphen"/>guam te, &amp; ſtatuam contra fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iem tuam,</hi> Pſal. 29.21. <hi>I will rebuke thee, ſays the Lord, and place thee againſt thy own face.</hi> And behold the Tryal is impartial, as the In<g ref="char:EOLhyphen"/>dictment was general, for what more im<g ref="char:EOLhyphen"/>partial, then that the Criminal is admitted to be his own Evidence. But the more im<g ref="char:EOLhyphen"/>partial the Tryal, the Sentence, which is unalterable, more juſt: Continue, I crave the favour of your attention.</p>
+            <pb facs="tcp:60775:16"/>
+            <p>The Tryal perform'd, Man being his own Evidence, Man his own Jury. The Judge proceeds to Sentence. This Son of God ha<g ref="char:EOLhyphen"/>ving ſurrounded all, with a look full of Majeſty, terrible to the Reprobrates, and pleaſing to the Choſen, ſeated at his Right Hand: To theſe with a charming Voice he ſays, <hi>Matt.</hi> 23.34. <hi>Uenite benedicti Pa<g ref="char:EOLhyphen"/>tris mei, poſſidete paratum vobis Regnum à conſtitutione Mundi; Come ye bleſſed of my Father, inherit the Kingdom prepared for you, from the beginning of the World.</hi> And with a ſtately, and ſtern Turn to the Wicked, placed at the Left, with a Voice of Thun<g ref="char:EOLhyphen"/>der, with Eyes of Light'ning, and five Stars ſhining from his Sacred Wounds, ſhall dart his fatal Sentence: <hi>Diſcedite à me maledicti</hi> (verſ. 41.) <hi>in ignem aeternum qui paratus eſt Diabolo &amp; Angelis ejus. De<g ref="char:EOLhyphen"/>part from me, ye accurſed, into everlaſting fire, prepared for the Devil and his Angels.</hi> And Judgement is done, the Sentence and Exe<g ref="char:EOLhyphen"/>cution is doing for all Eternity.</p>
+            <p>
+               <hi>Diſcedite, Depart: Venite, Come.</hi> O fatal Departure! O bleſſed Acceſs! Of Whom?
+<pb facs="tcp:60775:16"/>From Whom? To Whom? Whither? And, How long? A ſad Departure of Men from God; from the Centre of Bliſs, to the Devil, to Hell fire, and that for Ever. O joyful Acceſs! of the Creature to his Maker, to his ſweet Redeemer, to the Manſion of Happineſs never to End. Come, O Bleſſed! Depart, O Wicked! But is there no Attonement to be had? <hi>None.</hi> No hopes of Mitigation? <hi>Not the leaſt.</hi> Is the Sentence Unalterable? <hi>Un<g ref="char:EOLhyphen"/>alterable. In aeternum,</hi> for ever. Its God's Word. To queſtion it, were to Impeach our Reaſon, and God's Veracity.</p>
+            <p>Diſcourſe it thus if you pleaſe: To de<g ref="char:EOLhyphen"/>prive Man of a Temporal Life, for an Of<g ref="char:EOLhyphen"/>fence to Man equal in Nature, your Rea<g ref="char:EOLhyphen"/>ſon tells you is juſt. And for an Offence againſt God, ſo great in Goodneſs and Worth, ſo infinitely above Man, by a pro<g ref="char:EOLhyphen"/>portion of Juſtice, the Puniſhment, ought it not to be Eternal? O imprudent! O raſh Mortals! Were the Caſe but doubt<g ref="char:EOLhyphen"/>ful, in Wiſdom you ſhould provide for the worſt; much more were it probable,
+<pb facs="tcp:60775:17"/>moſt of all, it being Certain. We are indicted both by Reaſon, and God's Word, and yet we prepare neither for the impar<g ref="char:EOLhyphen"/>tial Tryal, nor unalterable Sentence, by a timely Repentance, and Reformation of our Manners: God ſend we hear not, <hi>Diſ<g ref="char:EOLhyphen"/>cedite maledicti in ignem aeternum: Depart you accurſed into Eternal flames.</hi>
+            </p>
+            <p>
+               <hi>Tunc videbunt; Then they ſhall ſee the Son of Man<g ref="char:punc">▪</g>
+               </hi> Never <hi>to ſee him more. Tune plangent; And then they ſhall mourn; to mourn for ever:</hi> Where I cannot but reflect, that Tears of Puniſhment begin from <hi>Seeing;</hi> Tears of Repentance from <hi>Be<g ref="char:EOLhyphen"/>lieving.</hi> They deferr'd <hi>Weeping</hi> till they ſaw the Judge, <hi>then too late;</hi> They <hi>Weep,</hi> they <hi>Sigh,</hi> they <hi>Groan,</hi> they <hi>Gnaſh their Teeth,</hi> and ſo they ſhall for <hi>Ever; Plan<g ref="char:EOLhyphen"/>gent;</hi> they ſhall Mourn, and that <hi>Eter<g ref="char:EOLhyphen"/>nally:</hi> Whereas the Juſt grounded in a true Belief, now waſh away their Failures, with Pious and Devout Tears, and there<g ref="char:EOLhyphen"/>fore ſhall <hi>Weep no more,</hi> but <hi>Videbunt,</hi> ſhall ſee Him, whoſe ſight is Life Everlaſting.
+<pb facs="tcp:60775:17"/>Depart O Accurſed for <hi>Ever:</hi> Come ye Bleſſed for <hi>Ever.</hi> O <hi>Ever! Ever!</hi> After Hundreds, and Thouſands, and Thouſands of Millions of Ages, yet <hi>Ever</hi> remains; Suppoſe all Heaven and Earth turned in<g ref="char:EOLhyphen"/>to Cyphers, put an <hi>Unit</hi> before them, you'l find written at the end of them; here <hi>Ever,</hi> here <hi>Eternity</hi> begins.</p>
+            <p>O Holy Penance! O Happy Repen<g ref="char:EOLhyphen"/>tance! Thou alone art able to prevent the perpetual Torment, and Diſgrace due to our Sins. Thou haſt filled Heaven, and changed Sinners into Saints. <hi>Thee</hi> from this Hour we heartily Embrace: Aſpire, O Lord! with thy moving Grace, melt our flinty Hearts, diſſolve them into Waters of Compunction, that joyning our Sorrow with thy Paſſion, our Tears with thy pre<g ref="char:EOLhyphen"/>cious Blood, which ſo abundantly flow'd from thy Sacred Wounds, we may waſh away the Guilt of our Crimes. <hi>Peccavi<g ref="char:EOLhyphen"/>mus, We have ſin'd,</hi> but we Repent; To thee an Infant Saviour we have Recourſe this <hi>Holy Time of Advent,</hi> that at thy <hi>Second
+<pb facs="tcp:60775:18"/>Coming,</hi> as a Judge, we may have cauſe to Rejoyce, and not to Mourn. Be it ſo be<g ref="char:EOLhyphen"/>loved Brethren; for who in this Life has Sin'd, and doth not Repent, ſhall Mourn, and Burn for <hi>Ever; Ever, Ever. Diſce<g ref="char:EOLhyphen"/>dite in ignem aeternum,</hi> &amp;c. From which, God of his infinite Mercy preſerve us all, <hi>In the Name of the Father,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
